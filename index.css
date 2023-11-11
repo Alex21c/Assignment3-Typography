@@ -56,10 +56,11 @@ body{
 }
 
 .heroImg{
-  background: linear-gradient(-255deg, #5d5d5d 31%, #3a3a3a 31% , #3a3a3a 52%, #111111 52%);
+  background: linear-gradient(-255deg, #5d5d5d 35%, #3a3a3a 35% , #3a3a3a 58%, #111111 58%);
   color: white;
-  padding: 2.5rem;
-  font-size: 4rem;
+  padding: 4rem 4rem;
+  font-size: 5rem;
+  width: 28rem;
 }
 
 .heroImg span:nth-child(1){
@@ -68,11 +69,11 @@ body{
 }
 .heroImg span:nth-child(2){
   font-weight: normal;
-  right: 2.5rem;
+  right: 1rem;
 }
 .heroImg span:nth-child(3){
   color: #0a9db2;
-  right: 1rem;
+  right: -1rem;
   font-weight: bold;
 }
 
