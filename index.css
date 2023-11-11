@@ -17,20 +17,20 @@ div.mainWrapper{
   text-align: center;
 }
 main{
-  width: 43%;
+  width: 30rem;
   /* background-color: rgba(0,0,255, .5); */
   padding:0.2rem 1rem;
   text-align: left;
   box-sizing: border-box;
-  
 }
 
 main p{
   padding:.5rem;
-  font-size: .8rem;
+  font-size: 1rem;
   color: gray;
-  line-height: 1rem;
+  /* line-height: 1.2rem; */
   /* text-align: justify; */
+  /* letter-spacing: .02rem; */
 }
 header h1{
   padding: 1rem;
@@ -41,7 +41,7 @@ header img{
 }
 
 main iframe{
-  width: 25rem;
+  width: 27rem;
   height: 15rem;
 }
 main iframe{
@@ -60,7 +60,7 @@ body{
   color: white;
   padding: 4rem 4rem;
   font-size: 5rem;
-  width: 28rem;
+  width: 35rem;
 }
 
 .heroImg span:nth-child(1){
