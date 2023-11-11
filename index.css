@@ -54,3 +54,29 @@ body{
   border-bottom:5px solid rgba(0,0,0,.5);
   margin-bottom:.2rem;
 }
+
+.heroImg{
+  background: linear-gradient(-255deg, #5d5d5d 31%, #3a3a3a 31% , #3a3a3a 52%, #111111 52%);
+  color: white;
+  padding: 2.5rem;
+  font-size: 4rem;
+}
+
+.heroImg span:nth-child(1){
+  font-weight: lighter;
+  right: 4rem;
+}
+.heroImg span:nth-child(2){
+  font-weight: normal;
+  right: 2.5rem;
+}
+.heroImg span:nth-child(3){
+  color: #0a9db2;
+  right: 1rem;
+  font-weight: bold;
+}
+
+.heroImg span{
+  right: 0;
+  position: relative;
+}
